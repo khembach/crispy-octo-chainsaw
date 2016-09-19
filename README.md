@@ -5,3 +5,4 @@
 ![Titanic Photo](/images/640px-Titanic_lifeboat_number_6.jpeg)
 
 
+https://www.kaggle.com/c/titanic
